@@ -126,7 +126,7 @@ $(document).ready(function () {
 	$("#demo08").animatedModal({
     modalTarget: 'animatedModal8'
 	});
-	$("#demo10").animatedModal19({
+	$("#demo10").animatedModal({
     modalTarget: 'animatedModal19'
 	});
 	
