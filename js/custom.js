@@ -129,6 +129,9 @@ $(document).ready(function () {
 	$("#demo10").animatedModal({
     modalTarget: 'animatedModal19'
 	});
+	$("#demo11").animatedModal({
+    modalTarget: 'animatedModal20'
+	});
 	
 	//("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08").animatedModal();
 	
