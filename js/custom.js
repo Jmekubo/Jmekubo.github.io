@@ -106,7 +106,7 @@ $(document).ready(function () {
     //animatedModal
     $("#demo01").animatedModal();
 	$("#demo02").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal2'
 	});
 	$("#demo03").animatedModal({
     modalTarget: 'animatedModal'
