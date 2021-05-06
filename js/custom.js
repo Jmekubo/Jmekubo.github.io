@@ -106,52 +106,52 @@ $(document).ready(function () {
     //animatedModal
     $("#demo01").animatedModal();
 	$("#demo02").animatedModal({
-    modalTarget: 'animatedModal2'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo03").animatedModal({
-    modalTarget: 'animatedModal3'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo04").animatedModal({
-    modalTarget: 'animatedModal4'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo05").animatedModal({
-    modalTarget: 'animatedModal5'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo06").animatedModal({
-    modalTarget: 'animatedModal6'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo07").animatedModal({
-    modalTarget: 'animatedModal7'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo08").animatedModal({
-    modalTarget: 'animatedModal8'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo10").animatedModal({
-    modalTarget: 'animatedModal19'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo11").animatedModal({
-    modalTarget: 'animatedModal20'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo112").animatedModal({
-    modalTarget: 'animatedModal12'
+    modalTarget: 'animatedModal'
 	});
 	$("#demo113").animatedModal({
-    modalTarget: 'animatedModal13'
+    modalTarget: 'animatedModal'
 	});
 	
 	//("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08").animatedModal();
 	
 	// popup-modal
 	$("#animatedModal").popup-modal();
-	$("#animatedModal2").popup-modal({
-    modalTarget: 'popup-modal2'
-	});
-	$("#animatedModal12").popup-modal({
-    modalTarget: 'popup-modal12'
-	});
-	$("#animatedModal13").popup-modal({
-    modalTarget: 'popup-modal13'
-	});
+	//$("#animatedModal2").popup-modal({
+   // modalTarget: 'popup-modal2'
+	//});
+	// $("#animatedModal12").popup-modal({
+   // modalTarget: 'popup-modal12'
+//	});
+	//$("#animatedModal13").popup-modal({
+   // modalTarget: 'popup-modal13'
+	// });
 
     // Contact Form 	
 
