@@ -105,7 +105,9 @@ $(document).ready(function () {
 
     //animatedModal
     $("#demo01").animatedModal();
-    $("#demo02").animatedModal2();
+    $("#demo02").animatedModal2({
+    modalTarget: 'animatedModal2'
+	);
 	$("#demo03").animatedModal({
     modalTarget: 'animatedModal'
 	});
@@ -141,7 +143,7 @@ $(document).ready(function () {
 	
 	// popup-modal
 	$("#animatedModal").popup-modal();
-	$("#animatedModal2").popup-modal2();
+	// $("#animatedModal2").popup-modal2();
 	// $("#animatedModal12").popup-modal({
    // modalTarget: 'popup-modal12'
 //	});
