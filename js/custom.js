@@ -132,6 +132,12 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
+	$("#demo112").animatedModal({
+    modalTarget: 'animatedModal12'
+	});
+	$("#demo113").animatedModal({
+    modalTarget: 'animatedModal13'
+	});
 	
 	//("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08").animatedModal();
 	
@@ -139,6 +145,12 @@ $(document).ready(function () {
 	$("#animatedModal").popup-modal();
 	$("#animatedModal2").popup-modal({
     modalTarget: 'popup-modal2'
+	});
+	$("#animatedModal12").popup-modal({
+    modalTarget: 'popup-modal12'
+	});
+	$("#animatedModal13").popup-modal({
+    modalTarget: 'popup-modal13'
 	});
 
     // Contact Form 	
