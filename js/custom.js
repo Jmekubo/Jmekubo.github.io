@@ -143,7 +143,9 @@ $(document).ready(function () {
 	
 	// popup-modal
 	$("#animatedModal").popup-modal();
-	$("#animatedModal2").popup-modal2();
+	$("#animatedModal2").popup-modal2({
+   	modalTarget: 'popup-modal12'
+	);
 	// $("#animatedModal12").popup-modal({
    // modalTarget: 'popup-modal12'
 //	});
