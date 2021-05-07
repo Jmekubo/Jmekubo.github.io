@@ -132,10 +132,10 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
-	$("#demo112").animatedModal({
+	$("#demo12").animatedModal({
     modalTarget: 'animatedModal12'
 	});
-	$("#demo113").animatedModal({
+	$("#demo13").animatedModal({
     modalTarget: 'animatedModal13'
 	});
 	
@@ -144,13 +144,13 @@ $(document).ready(function () {
 	// popup-modal
 	$("#animatedModal").popup-modal();
 	$("#animatedModal2").popup-modal({
-    modalTarget: 'popup-modal2'
+    modalTarget: 'popup-modal'
 	});
 	$("#animatedModal12").popup-modal({
-    modalTarget: 'popup-modal12'
+    modalTarget: 'popup-modal'
 	});
 	$("#animatedModal13").popup-modal({
-    modalTarget: 'popup-modal13'
+    modalTarget: 'popup-modal'
 	});
 
     // Contact Form 	
