@@ -147,10 +147,10 @@ $(document).ready(function () {
     modalTarget: 'popup-modal'
 	});
 	$("#animatedModal12").popup-modal({
-    modalTarget: 'popup-modal12'
+    modalTarget: 'popup-modal'
 	});
 	$("#animatedModal13").popup-modal({
-    modalTarget: 'popup-modal13'
+    modalTarget: 'popup-modal'
 	});
 
     // Contact Form 	
