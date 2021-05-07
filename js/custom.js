@@ -144,7 +144,7 @@ $(document).ready(function () {
 	// popup-modal
 	$("#animatedModal").popup-modal();
 	$("#animatedModal2").popup-modal({
-    modalTarget: 'popup-modal2'
+    modalTarget: 'popup-modal'
 	});
 	$("#animatedModal12").popup-modal({
     modalTarget: 'popup-modal12'
