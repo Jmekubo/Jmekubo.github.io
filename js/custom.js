@@ -132,10 +132,10 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
-	$("#demo112").animatedModal({
+	$("#demo12").animatedModal({
     modalTarget: 'animatedModal12'
 	});
-	$("#demo113").animatedModal({
+	$("#demo13").animatedModal({
     modalTarget: 'animatedModal13'
 	});
 	
