@@ -14,6 +14,8 @@
     <link href="css/aos.css" rel="stylesheet">
     <!-- main style -->
     <link href="css/style.css" rel="stylesheet">
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="js/index.js"></script>  
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -516,7 +518,7 @@
                     <input type="email" name="email" class="form-control" placeholder="Your E-mail" />
                     <input type="text" name="phone" class="form-control" placeholder="Phone Number" />
                     <textarea name="message" class="form-control" placeholder="Your Message" style="height:120px"></textarea>
-                    <button id="submit" type="submit" name="submit" class="btn btn-glance">Send</button>
+                    <button id="submit" type="submit" name="submit" class="btn btn-glance" onclick="sendEmail()">Send Email</button>
                     <div id="success">
                         <p class="green textcenter"> Your message was sent successfully! I will be in touch as soon as I can. </p>
                     </div>
