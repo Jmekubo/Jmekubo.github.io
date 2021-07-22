@@ -105,44 +105,51 @@ $(document).ready(function () {
 
     //animatedModal
     $("#demo01").animatedModal();
+<<<<<<< HEAD
     $("#demo02").animatedModal2({
     modalTarget: 'animatedModal2'
 	);
+=======
+	$("#demo02").animatedModal({
+    modalTarget: 'animatedModal2'
+	});
+>>>>>>> parent of 9e84852... Update custom.js
 	$("#demo03").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal3'
 	});
 	$("#demo04").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal4'
 	});
 	$("#demo05").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal5'
 	});
 	$("#demo06").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal6'
 	});
 	$("#demo07").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal7'
 	});
 	$("#demo08").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal8'
 	});
 	$("#demo10").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal19'
 	});
 	$("#demo11").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal20'
 	});
 	$("#demo112").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal12'
 	});
 	$("#demo113").animatedModal({
-    modalTarget: 'animatedModal'
+    modalTarget: 'animatedModal13'
 	});
 	
 	//("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08").animatedModal();
 	
 	// popup-modal
 	$("#animatedModal").popup-modal();
+<<<<<<< HEAD
 	$("#animatedModal2").popup-modal2({
    	modalTarget: 'popup-modal12'
 	);
@@ -152,6 +159,17 @@ $(document).ready(function () {
 	//$("#animatedModal13").popup-modal({
    // modalTarget: 'popup-modal13'
 	// });
+=======
+	$("#animatedModal2").popup-modal({
+    modalTarget: 'popup-modal2'
+	});
+	$("#animatedModal12").popup-modal({
+    modalTarget: 'popup-modal12'
+	});
+	$("#animatedModal13").popup-modal({
+    modalTarget: 'popup-modal13'
+	});
+>>>>>>> parent of 9e84852... Update custom.js
 
     // Contact Form 	
 
