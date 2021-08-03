@@ -143,6 +143,8 @@ $(document).ready(function () {
     modalTarget: 'animatedModal12'
 	});
 	$("#demo113").animatedModal({
+    modalTarget: 'animatedModal12'
+	});
 	$("#demo12").animatedModal({
     modalTarget: 'animatedModal12'
 	});
