@@ -159,7 +159,7 @@ $(document).ready(function () {
 
 	$("#animatedModal2").popup-modal2({
    	modalTarget: 'popup-modal12'
-	);
+	});
 	// $("#animatedModal12").popup-modal({
    // modalTarget: 'popup-modal12'
 //	});
