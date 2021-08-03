@@ -105,21 +105,19 @@ $(document).ready(function () {
 
     //animatedModal
     $("#demo01").animatedModal();
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     $("#demo02").animatedModal2({
     modalTarget: 'animatedModal2'
 	);
-=======
+
 	$("#demo02").animatedModal({
     modalTarget: 'animatedModal2'
 	});
->>>>>>> parent of 9e84852... Update custom.js
-=======
+
 	$("#demo02").animatedModal({
     modalTarget: 'animatedModal2'
 	});
->>>>>>> 7100edf4a6fc6827fce9351c1d15ff4174ba6cb5
+
 	$("#demo03").animatedModal({
     modalTarget: 'animatedModal3'
 	});
@@ -144,17 +142,17 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
-<<<<<<< HEAD
+
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
 	$("#demo113").animatedModal({
-=======
+
 	$("#demo12").animatedModal({
     modalTarget: 'animatedModal12'
 	});
 	$("#demo13").animatedModal({
->>>>>>> 7100edf4a6fc6827fce9351c1d15ff4174ba6cb5
+
     modalTarget: 'animatedModal13'
 	});
 	
@@ -162,8 +160,7 @@ $(document).ready(function () {
 	
 	// popup-modal
 	$("#animatedModal").popup-modal();
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 	$("#animatedModal2").popup-modal2({
    	modalTarget: 'popup-modal12'
 	);
@@ -173,7 +170,7 @@ $(document).ready(function () {
 	//$("#animatedModal13").popup-modal({
    // modalTarget: 'popup-modal13'
 	// });
-=======
+
 	$("#animatedModal2").popup-modal({
     modalTarget: 'popup-modal2'
 	});
@@ -183,8 +180,7 @@ $(document).ready(function () {
 	$("#animatedModal13").popup-modal({
     modalTarget: 'popup-modal13'
 	});
->>>>>>> parent of 9e84852... Update custom.js
-=======
+
 	$("#animatedModal2").popup-modal({
     modalTarget: 'popup-modal'
 	});
@@ -194,7 +190,7 @@ $(document).ready(function () {
 	$("#animatedModal13").popup-modal({
     modalTarget: 'popup-modal'
 	});
->>>>>>> 7100edf4a6fc6827fce9351c1d15ff4174ba6cb5
+
 
     // Contact Form 	
 
