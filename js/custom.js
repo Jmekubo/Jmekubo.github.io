@@ -105,15 +105,12 @@ $(document).ready(function () {
 
     //animatedModal
     $("#demo01").animatedModal();
-
     $("#demo02").animatedModal2({
     modalTarget: 'animatedModal2'
 	);
-
 	$("#demo02").animatedModal({
     modalTarget: 'animatedModal2'
 	});
-
 	$("#demo02").animatedModal({
     modalTarget: 'animatedModal2'
 	});
@@ -142,17 +139,14 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
-
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
 	$("#demo113").animatedModal({
-
 	$("#demo12").animatedModal({
     modalTarget: 'animatedModal12'
 	});
 	$("#demo13").animatedModal({
-
     modalTarget: 'animatedModal13'
 	});
 	
