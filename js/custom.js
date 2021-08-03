@@ -107,7 +107,7 @@ $(document).ready(function () {
     $("#demo01").animatedModal();
     $("#demo02").animatedModal2({
     modalTarget: 'animatedModal2'
-	);
+    	});
 	$("#demo02").animatedModal({
     modalTarget: 'animatedModal2'
 	});
