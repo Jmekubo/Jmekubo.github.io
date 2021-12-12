@@ -133,6 +133,9 @@ $(document).ready(function () {
 	$("#demo11").animatedModal({
     modalTarget: 'animatedModal20'
 	});
+	$("#demo14").animatedModal({
+    modalTarget: 'animatedModal21'
+	});
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
@@ -170,6 +173,9 @@ $(document).ready(function () {
 	$("#animatedModal13").popup-modal({
     modalTarget: 'popup-modal13'
 	});
+	$("#animatedModal14").popup-modal({
+    modalTarget: 'popup-modal1'
+	});
 
 	$("#animatedModal2").popup-modal({
     modalTarget: 'popup-modal'
@@ -178,6 +184,9 @@ $(document).ready(function () {
     modalTarget: 'popup-modal'
 	});
 	$("#animatedModal13").popup-modal({
+    modalTarget: 'popup-modal'
+	});
+	$("#animatedModal14").popup-modal({
     modalTarget: 'popup-modal'
 	});
 
