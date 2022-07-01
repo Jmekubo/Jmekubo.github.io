@@ -193,7 +193,7 @@ $(document).ready(function () {
     modalTarget: 'popup-modal'
 	});
 	$("#animatedModal15").popup-modal({
-    modalTarget: 'popup-modal'
+    modalTarget: 'popup-modal15'
 	});
 
     // Contact Form 	
