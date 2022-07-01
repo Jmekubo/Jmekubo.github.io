@@ -136,6 +136,9 @@ $(document).ready(function () {
 	$("#demo14").animatedModal({
     modalTarget: 'animatedModal21'
 	});
+	$("#demo15").animatedModal({
+    modalTarget: 'animatedModal22'
+	});
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
@@ -174,7 +177,7 @@ $(document).ready(function () {
     modalTarget: 'popup-modal13'
 	});
 	$("#animatedModal14").popup-modal({
-    modalTarget: 'popup-modal1'
+    modalTarget: 'popup-modal'
 	});
 
 	$("#animatedModal2").popup-modal({
@@ -189,7 +192,9 @@ $(document).ready(function () {
 	$("#animatedModal14").popup-modal({
     modalTarget: 'popup-modal'
 	});
-
+	$("#animatedModal15").popup-modal({
+    modalTarget: 'popup-modal'
+	});
 
     // Contact Form 	
 
