@@ -139,6 +139,21 @@ $(document).ready(function () {
 	$("#demo15").animatedModal({
     modalTarget: 'animatedModal22'
 	});
+	$("#demo16").animatedModal({
+    modalTarget: 'animatedModal23'
+	});
+	$("#demo17").animatedModal({
+    modalTarget: 'animatedModal24'
+	});
+	$("#demo18").animatedModal({
+    modalTarget: 'animatedModal25'
+	});
+	$("#demo19").animatedModal({
+    modalTarget: 'animatedModal26'
+	});
+	$("#demo20").animatedModal({
+    modalTarget: 'animatedModal27'
+	});
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
