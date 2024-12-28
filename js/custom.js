@@ -154,6 +154,12 @@ $(document).ready(function () {
 	$("#demo20").animatedModal({
     modalTarget: 'animatedModal27'
 	});
+	$("#demo21").animatedModal({
+    modalTarget: 'animatedModal28'
+	});
+	$("#demo22").animatedModal({
+    modalTarget: 'animatedModal29'
+	});
 	$("#demo112").animatedModal({
     modalTarget: 'animatedModal12'
 	});
