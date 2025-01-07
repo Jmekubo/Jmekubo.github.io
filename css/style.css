@@ -283,7 +283,7 @@ a.active {
     height: 100vh;
     display: flex;
     align-items: flex-start;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .table-cell {
