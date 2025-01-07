@@ -281,6 +281,9 @@ a.active {
     background: url(../img/home-bg-2.jpg);
     background-size: cover;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .table-cell {
