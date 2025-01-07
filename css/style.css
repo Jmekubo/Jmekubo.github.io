@@ -283,13 +283,12 @@ a.active {
     height: 100vh;
     display: flex;
     align-items: flex-start;
-    justify-content: center;
     padding-top: 10px;
 }
 
 .table-cell {
     display: table-cell;
-    text-align: center;
+    text-align: left;
 }
 
 .disply-table {
