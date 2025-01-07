@@ -286,6 +286,7 @@ a.active {
 .table-cell {
     display: table-cell;
     vertical-align: middle;
+    text-align: center;
 }
 
 .disply-table {
